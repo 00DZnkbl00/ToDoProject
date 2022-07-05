@@ -1,2 +1,2 @@
 # ToDoProject
-Alikacja planowania działań. Na szkolenie z programowania
+Alikacja planowania zadań. Na szkolenie z programowania
