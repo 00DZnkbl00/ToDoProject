@@ -26,7 +26,7 @@ public class Task {
     @Override
     public String toString()
     {
-        return taskTitle+",waga = " +taskPriority+", ukończone = "+ taskPriority +"\n"+taskDescription;
+        return taskTitle+",waga = " +taskPriority+", ukończone = "+ taskCompletion +"\n"+taskDescription;
     }
     public void changeTaskCompletion() {
         taskCompletion = !taskCompletion;
